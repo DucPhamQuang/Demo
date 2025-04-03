@@ -1,0 +1,9 @@
+# Node modules
+/node_modules
+
+# Laravel specific
+/vendor
+/storage/*
+/public/hot
+.env
+.env.*
